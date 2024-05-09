@@ -1,0 +1,27 @@
+[
+    {   
+        "id"           : "1",
+        "barang_name"  : "Fortune",
+        "barang_harga" : "15000"
+    },
+    {
+        "id"           : "2",
+        "barang_name"  : "Indomie",
+        "barang_harga" : "5000"
+    },
+    {
+        "id"           : "3",
+        "barang_name"  : "Beras",
+        "barang_harga" : "20000"
+    },
+    {
+        "id"           : "4",
+        "barang_name"  : "Gula Kristal",
+        "barang_harga" : "15000"
+    },
+    {
+        "id"           : "5",
+        "barang_name"  : "Tepung Terigu",
+        "barang_harga" : "8000"
+    }
+]
